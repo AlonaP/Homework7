@@ -1,0 +1,50 @@
+body {
+margin:0px;
+padding-top:0px;
+width: 100%;
+}
+
+li {
+		list-style: none;
+	}
+
+header {
+	background-color: black;
+	color: white;
+}
+
+img {
+	width:300px;
+	height:150px;
+	margin:40px;
+}
+
+.circle {
+	background-color: silver;
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+	line-height: 140px;
+	text-align: center;
+	color:grey;
+	margin:10px auto;
+}
+
+.row {
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.btn {
+	margin: 5px 30px;
+	font-weight: bold;
+}
+
+.silver {
+	background-color: #DBD9D9;
+}
+
+.center{
+	text-align: center;
+}
